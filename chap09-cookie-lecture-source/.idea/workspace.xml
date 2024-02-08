@@ -29,9 +29,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2c1jOTn7Vv9C5J5GsFdry3k2hYe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,8 +43,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Tomcat Server.Tomcat 10.1.18.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/lecture/03_servlet/chap01-life-cycle-lecture-sorce",
+    "last_opened_file_path": "C:/lecture/03_servlet/chap09-cookie-lecture-source",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -159,6 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707285950401</updated>
       <workItem from="1707285951388" duration="2711000" />
+      <workItem from="1707351115555" duration="67000" />
     </task>
     <servers />
   </component>

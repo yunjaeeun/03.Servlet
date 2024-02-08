@@ -4,11 +4,11 @@
          xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd"
          version="5.0">
     <servlet>
-        <servlet-name>xmlmapping</servlet-name>      <!--mapping 명칭-->
-        <servlet-class>com.ohgiraffers.section01.xml.LifeCycleTestServlet</servlet-class> <!-- 실제 클래스 명-->
+        <servlet-name>xmlmapping</servlet-name>
+        <servlet-class>com.ohgiraffers.section01.xml.LifeCycleTestServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>xmlmapping</servlet-name>     <!-- mapping 명칭-->
-        <url-pattern>/xml-lifecycle</url-pattern>   <!-- 사용자 접근 명칭-->
+        <servlet-name>xmlmapping</servlet-name>
+        <url-pattern>/xml-lifecycle</url-pattern>
     </servlet-mapping>
 </web-app>
